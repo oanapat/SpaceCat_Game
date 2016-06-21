@@ -5,7 +5,7 @@
   
 - **Project Overview**
   * Group project, developed together with two graphic designers and one developer
-  * The game was created from scratch, including graphics and backend
+  * The game was created from scratch, including graphics and back-end
   
 - **Skills**
   * Learned how o use Game Maker Studio to create a 2D game
